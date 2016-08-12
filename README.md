@@ -1,2 +1,2 @@
-# python-programs
-Python programs from learnpythonthehardway.org
+# learnpythonthehardway
+Python programs from learnpythonthehardway
