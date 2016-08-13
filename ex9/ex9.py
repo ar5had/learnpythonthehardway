@@ -3,7 +3,7 @@ months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
 
 print "Here are the days: ", days
 print "Here are the months: ", months
-
+# triple quotes
 print """
 There's something going on here.
 With the three double-quotes.
