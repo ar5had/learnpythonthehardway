@@ -13,3 +13,5 @@ txt = open(raw_input("Another fiile..."))
 print "another file -->"
 
 print txt.read()
+
+txt.close();
